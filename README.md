@@ -1,6 +1,6 @@
 # Website TheBoys 
 
- ![preview](./.github/preview.png)
+ ![preview](img/bg.jpg)
  
  ## Descrição do projeto 
 
