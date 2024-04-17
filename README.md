@@ -15,5 +15,4 @@
 ## Contato
 [(LinkedIn)](https://www.linkedin.com/in/ryan-silva-8b73662b4/)
 -----
-E-mail - ryanalmeidadev@gmail.com
-Linktree - https://linktr.ee/gothwavy
+E-mail - ryanalmeidadev@gmail.com | Linktree - https://linktr.ee/gothwavy
