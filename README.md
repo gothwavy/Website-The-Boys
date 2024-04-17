@@ -2,7 +2,7 @@
 
  ![preview](./.github/preview.png)
  
- - Descrição do projeto 
+ ## Descrição do projeto 
 
  - Este é um website desenvolvido para o projeto DGS temático da série TheBoys
 
