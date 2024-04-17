@@ -13,5 +13,7 @@
 - Git e Github
 
 ## Contato
-[LinkedIn](https://www.linkedin.com/in/ryan-silva-8b73662b4/) | [Linktree](https://linktr.ee/gothwavy) | E-mail > ryanalmeidadev@gmail.com
+| [LinkedIn](https://www.linkedin.com/in/ryan-silva-8b73662b4/) | [Linktree](https://linktr.ee/gothwavy) | 
+-----
+E-mail - ryanalmeidadev@gmail.com
 -----
