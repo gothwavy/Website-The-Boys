@@ -10,7 +10,7 @@
 }
 
 body {
-  background: url(/img/bg.jpg);
+  background: url(../img/bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   overflow: hidden;
@@ -35,7 +35,7 @@ header .logo {
 
 .navigation ul li a {
   color: #fff;
-  font-size: 10px;
+  font-size: 17px;
   padding-bottom: 5px;
   border-bottom: 2px solid transparent;
   transition: all .6s;
@@ -133,7 +133,7 @@ footer .cartas {
   display: flex;
   flex-flow: row;
   align-items: center;
-  margin-left: 23em;
+  margin-left: 11.5em;
   margin-top: 1.5em;
 }
 
