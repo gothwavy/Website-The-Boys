@@ -4,7 +4,7 @@
  
  ## Descrição do projeto 
 
- - Este é um website desenvolvido para o projeto DGS temático da série TheBoys
+ - Este é um website desenvolvido para o projeto DGS, com a temática da série TheBoys
 
 ## Tecnologias
 
