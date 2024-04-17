@@ -1,6 +1,6 @@
 # Website TheBoys 
 
- ![preview](.github/preview.png)
+ ![preview](./.github/preview.png)
  
  ## Descrição do projeto 
 
@@ -15,4 +15,4 @@
 ## Contato
 [(LinkedIn)](https://www.linkedin.com/in/ryan-silva-8b73662b4/)
 -----
-[(E-mail)](ryanalmeidadev@gmail.com)
+E-mail - ryanalmeidadev@gmail.com
